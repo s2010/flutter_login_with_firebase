@@ -1,6 +1,6 @@
 # chat_app
 
-A new Flutter project.
+This is a simple demonstration of how to connect your flutter app to Firebase.
 
 ## Getting Started
 
